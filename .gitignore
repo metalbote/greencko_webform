@@ -1,0 +1,24 @@
+##  ignore IDE Settings
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+_pgbackup
+pinegrow.json
+.idea
+
+## ignore packager folders
+node_modules
+
+## ignore tempory folders
+tmp
+.sass-cache/
+
+## Log files
+# *.logs
+
+### Vagrant
+.vagrant/
+
+### Versioning
+.svn/

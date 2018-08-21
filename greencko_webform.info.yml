@@ -1,0 +1,11 @@
+name: 'Greencko Webform'
+description: 'Provide Webform related configuration.'
+type: module
+core: 8.x
+version: 8.x-6.x-dev
+package: Greencko
+dependencies:
+  - webform
+  - webform_templates
+  - greencko_core
+  - greencko_user
